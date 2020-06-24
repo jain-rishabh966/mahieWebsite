@@ -12,7 +12,7 @@ var validate = (async () => {
 
     var accessDenied = (message) => {
         alert(message)
-        window.location.href = '/index.html'
+        window.location.href = '/mahieWebsite/'
     }
     if (isMahie) {
         var areYouSure = confirm('Are you sure?');
