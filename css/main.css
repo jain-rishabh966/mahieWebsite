@@ -201,7 +201,7 @@ header {
 }
 
 @media (max-width : 600px) {
-  .home-intro {
+  .home-intro, .home-intro-2 {
     min-width: 10rem;
   }
 
